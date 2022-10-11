@@ -1,3 +1,9 @@
+# Modifications
+Forked this to test out curiosity with a GUI and packaging it into an application for UNIX systems. The GUI works fine (see exmaple below), but it is not fully packaged for UNIX systems.
+
+![alt text](https://github.com/matteop65/GFPGAN_w_GUI/blob/main/Sample_Input_Image.jpg?raw=true)
+![alt text](https://github.com/matteop65/GFPGAN_w_GUI/blob/main/Summary_Page.jpg?raw=true)
+
 <p align="center">
   <img src="assets/gfpgan_logo.png" height=130>
 </p>
