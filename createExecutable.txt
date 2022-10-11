@@ -1,0 +1,2 @@
+#!/bin/sh
+Python /Users/matteopenlington/GitHub/GFPGAN_w_GUI/inference_gfpgan_gui.py
