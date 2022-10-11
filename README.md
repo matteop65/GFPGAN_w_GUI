@@ -1,8 +1,8 @@
 # Modifications
 Forked this to test out curiosity with a GUI and packaging it into an application for UNIX systems. The GUI works fine (see exmaple below), but it is not fully packaged for UNIX systems.
-<img src="https://github.com/matteop65/GFPGAN_w_GUI/blob/master/Sample_Input_Image.png" alt="drawing" width="200"/>
-![alt text](https://github.com/matteop65/GFPGAN_w_GUI/blob/master/Sample_Input_Image.png?raw=true)
-![alt text](https://github.com/matteop65/GFPGAN_w_GUI/blob/master/Summary_Page.png?raw=true)
+
+<img src="https://github.com/matteop65/GFPGAN_w_GUI/blob/master/Sample_Input_Image.png" alt="SampleInputImage" width="800"/>
+<img src="https://github.com/matteop65/GFPGAN_w_GUI/blob/master/Summary_Page.png" alt="SampleInputImage" width="800"/>
 
 <p align="center">
   <img src="assets/gfpgan_logo.png" height=130>
